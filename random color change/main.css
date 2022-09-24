@@ -1,0 +1,37 @@
+body{
+    background-color: #417e7e;
+    align-items: center;
+    justify-content: center;
+}
+.container button{
+    width: 80px;
+    height:10px;
+    color: rgb(206, 242, 45);
+    padding: 20px;
+    font-size: 18px;
+    
+    display: flex;
+    justify-content: center;
+}
+
+.num{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin: 3px solid green;
+    font-size: 48px;
+}
+.number{
+    color: rgb(137, 3, 160);
+    text-shadow: 5px 5px 5px black;
+ 
+}
+.num button{
+    padding: 20px;
+    border-radius: 20px 90px 30px 90px;
+    font-size: 28px;
+    background-color: rgb(135, 135, 209);
+    box-shadow: 10px 10px 2px rgb(196, 197, 247);
+    margin: 0%;
+}
